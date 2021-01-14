@@ -1,6 +1,6 @@
 # command-line-tools
-Here are a few things I've written that I have found useful over the years.
-They are mostly written by myself but some make use of code
+Here are a few things I've written that I have found useful over the years, along with a few toys.
+They are mostly written by myself but some include code or were
 originally written by others. These seemed old enough or trivial
 enough to not cause any worries, but in the unlikely event you see
 something you think belongs to you let me know and I'll be
